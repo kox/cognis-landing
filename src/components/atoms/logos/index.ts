@@ -1,3 +1,4 @@
+import Cognis from "./cognis";
 import Vite from "./vite";
 
 export interface LogosProps {
@@ -8,6 +9,7 @@ export interface LogosProps {
 
 const Logos = {
   Vite,
+  Cognis,
 };
 
 export default Logos;
